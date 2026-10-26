@@ -1,1 +1,0 @@
-# bee-hive-monitoring-system
